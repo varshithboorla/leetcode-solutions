@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/varshithboorla/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/varshithboorla/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/varshithboorla/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/varshithboorla/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/varshithboorla/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
