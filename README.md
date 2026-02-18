@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/varshithboorla/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/varshithboorla/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/varshithboorla/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/varshithboorla/leetcode-solutions/tree/master/0190-reverse-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/varshithboorla/leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
