@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/varshithboorla/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1154-day-of-the-year](https://github.com/varshithboorla/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+| [1556-thousand-separator](https://github.com/varshithboorla/leetcode-solutions/tree/master/1556-thousand-separator) |
 ## Simulation
 |  |
 | ------- |
