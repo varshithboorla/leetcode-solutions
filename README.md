@@ -67,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshithboorla/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1154-day-of-the-year](https://github.com/varshithboorla/leetcode-solutions/tree/master/1154-day-of-the-year) |
 ## String
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshithboorla/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1154-day-of-the-year](https://github.com/varshithboorla/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 ## Simulation
 |  |
