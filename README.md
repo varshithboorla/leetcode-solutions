@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/varshithboorla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,8 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshithboorla/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshithboorla/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
