@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/varshithboorla/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/varshithboorla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/varshithboorla/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/varshithboorla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/varshithboorla/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/varshithboorla/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
