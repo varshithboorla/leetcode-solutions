@@ -6,10 +6,12 @@ class Solution {
         while(true){
             i = i % n;
             
-            if(tickets[i]>0){
-                tickets[i]--;
-                count++;
+            if(tickets[i]==0){
+                i++;
+                continue;
             }
+            count++;
+            tickets[i]--;
             if(i==k&&tickets[k]==0) break;
             i++;
         }
