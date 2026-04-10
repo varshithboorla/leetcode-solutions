@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/varshithboorla/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0219-contains-duplicate-ii](https://github.com/varshithboorla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/varshithboorla/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/varshithboorla/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/varshithboorla/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/varshithboorla/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Database
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshithboorla/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/varshithboorla/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/varshithboorla/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/varshithboorla/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## String Matching
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/varshithboorla/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshithboorla/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/varshithboorla/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/varshithboorla/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/varshithboorla/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/varshithboorla/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
