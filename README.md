@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/varshithboorla/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/varshithboorla/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/varshithboorla/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshithboorla/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/varshithboorla/leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/varshithboorla/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/varshithboorla/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/varshithboorla/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -127,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/varshithboorla/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
