@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/varshithboorla/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/varshithboorla/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/varshithboorla/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/varshithboorla/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/varshithboorla/leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -138,5 +140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
