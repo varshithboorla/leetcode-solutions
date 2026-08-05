@@ -1,4 +1,10 @@
 # Write your MySQL query statement below
-select if(count(num)=1,num,null) as num from MyNumbers
-group by num
-order by num desc limit 1;
+SELECT 
+    ( 
+        SELECT num 
+        FROM MyNumbers
+        GROUP By num 
+        HAVING count(num) = 1
+        ORDER BY num DESC 
+        LIMIT 1 
+    ) AS num
