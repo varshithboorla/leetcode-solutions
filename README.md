@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/varshithboorla/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/varshithboorla/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/varshithboorla/leetcode-solutions/tree/master/0182-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/varshithboorla/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/varshithboorla/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/varshithboorla/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/varshithboorla/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
