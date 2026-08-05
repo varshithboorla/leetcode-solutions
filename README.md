@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/varshithboorla/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/varshithboorla/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/varshithboorla/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/varshithboorla/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/varshithboorla/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/varshithboorla/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/varshithboorla/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
