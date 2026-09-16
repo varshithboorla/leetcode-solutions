@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/varshithboorla/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/varshithboorla/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/varshithboorla/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0387-first-unique-character-in-a-string](https://github.com/varshithboorla/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/varshithboorla/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/varshithboorla/leetcode-solutions/tree/master/0771-jewels-and-stones) |
