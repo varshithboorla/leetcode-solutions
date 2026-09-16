@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/varshithboorla/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0198-house-robber](https://github.com/varshithboorla/leetcode-solutions/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/varshithboorla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/varshithboorla/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/varshithboorla/leetcode-solutions/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/varshithboorla/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/varshithboorla/leetcode-solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/varshithboorla/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
