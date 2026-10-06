@@ -98,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/varshithboorla/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/varshithboorla/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Math
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/varshithboorla/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/varshithboorla/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -194,5 +197,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
