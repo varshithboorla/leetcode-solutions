@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/varshithboorla/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/varshithboorla/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/varshithboorla/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/varshithboorla/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Math
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/varshithboorla/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/varshithboorla/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
