@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/varshithboorla/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/varshithboorla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/varshithboorla/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/varshithboorla/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/varshithboorla/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/varshithboorla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/varshithboorla/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/varshithboorla/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/varshithboorla/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/varshithboorla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshithboorla/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/varshithboorla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/varshithboorla/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/varshithboorla/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/varshithboorla/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/varshithboorla/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
