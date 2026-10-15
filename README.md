@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/varshithboorla/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/varshithboorla/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/varshithboorla/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/varshithboorla/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/varshithboorla/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/varshithboorla/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/varshithboorla/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/varshithboorla/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [1408-string-matching-in-an-array](https://github.com/varshithboorla/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 ## Matrix
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/varshithboorla/leetcode-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Depth-First Search
 |  |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/varshithboorla/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/varshithboorla/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/varshithboorla/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/varshithboorla/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/varshithboorla/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
